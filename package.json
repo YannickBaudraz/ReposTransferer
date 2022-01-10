@@ -1,0 +1,23 @@
+{
+  "name": "transfer_repos",
+  "version": "1.0.0",
+  "description": "Transfer all repos from a GitHub user to another.",
+  "main": "transfer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannickcpnv/transfer_repos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yannickcpnv/transfer_repos/issues"
+  },
+  "homepage": "https://github.com/yannickcpnv/transfer_repos#readme",
+  "dependencies": {
+    "@octokit/core": "^3.5.1"
+  }
+}
