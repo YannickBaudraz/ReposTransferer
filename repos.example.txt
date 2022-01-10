@@ -1,1 +1,2 @@
-# New line separated repos. Ex : YannickClifford/Magic_ORM
+# New line separated repos. Ex : Magic_ORM
+# Delete these lines when adding repos
